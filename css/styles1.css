@@ -1,0 +1,15 @@
+html, body{
+	margin: 0px;
+	padding: 0px;
+	color: #fff;
+	font-size: 1em;
+	background-color: #efefef;
+}
+
+section#global{
+	margin-top: 10px;
+}
+
+p{
+	padding: 10px;
+}

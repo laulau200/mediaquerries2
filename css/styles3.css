@@ -1,0 +1,7 @@
+section#global{
+	position: absolute;
+	width: 960px;
+	margin-left: -480px;
+	left: 50%;
+	background-color: black;
+}
